@@ -3,6 +3,11 @@ All notable changes to the "Relaxed Dark" extension will be documented in this f
 
 _Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file._
 
+## [0.1.2] - 2020-06-17 
+### Added
+- Added: Screenshot
+- Added: HTML Demo file
+
 ## [0.1.1] - 2020-06-17 
 ### Not finished
 - Text colors: I still need to work on the coding text colors, I'm not 100% happy about all of them.
