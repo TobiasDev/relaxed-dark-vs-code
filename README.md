@@ -28,4 +28,4 @@ I haven't released this on the Microsoft Marketplace for Visual Studio Code exte
 If you have any feedback for my theme, please create an issue with your suggestion. 
 
 ## Screenshots
-![Visual Studio Code, Example](/images/relaxed-dark-html.png)
+![Example screenshot](/images/relaxed-dark-html.png)
