@@ -3,7 +3,7 @@
 
 # Table of Contents
 - [Important](#important)
-    *[Colors](#colors)
+    * [Colors](#colors)
 - [Installing](#installing)
 - [Feedback](#feedback)
 - [Screenshots](#screenshots)
