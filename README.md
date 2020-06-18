@@ -47,6 +47,15 @@ _Here are the list of things that isn't done / planned to be fixed for the theme
 - [ ] There are sections of the app that isn't themed yet
 
 # General "Relaxed Dark" Theme planning
-- [ ] Long-term: Create a KDE Plasma theme. _I want this as my daily driver theme for everything I can as I find it really nice to work in_
+Once I'm happy with my VS Code theme, I would like to implement this in more of my daily apps. There is no time-frame on this, and it could be that this never happens. However, if I keep going with this theme, these are the other apps I would like to implement a version of this theme in.   
+
+- [ ] KDE Plasma Global Theme (Decorations, Colors, Login-screen, etc.)
+- [ ] [Joplin](https://github.com/laurent22/joplin) - Note-taking application
+- [ ] [rofi](https://github.com/davatorium/rofi) or [uLauncher](https://github.com/Ulauncher/Ulauncher) - Keyboard launcher for Linux
+- [ ] [UELI](https://github.com/oliverschwendener/ueli) - Keyboard launcher for Windows 10
+- [ ] Terminal: Konsole (default terminal for KDE)
+- [ ] Terminal: For Windows I don't have a good default terminal yet, but I want to find one with theming and that will then get this theme
+
+
 
 
