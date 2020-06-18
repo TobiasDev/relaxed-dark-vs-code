@@ -71,8 +71,8 @@
 		"tab.activeBorder": "#C0B1AFff", 
 		"tab.inactiveBackground": "#1F1E1Fff", 
 		"tab.inactiveForeground": "#C0B1AF60",
-		"tab.unfocusedActiveForeground": "#008000ff",
-		"tab.unfocusedInactiveForeground": "#008000ff",
+		"tab.unfocusedActiveForeground": "#C0B1AF60",
+		"tab.unfocusedInactiveForeground": "#C0B1AF60",
 
 		// ----- General -----
 		"focusBorder": "#353435ff", // Border around selected text-box
@@ -100,7 +100,7 @@
 
 		// ----- editorGroup -----
 		"editorGroup.emptyBackground": "#121317ff",
-		"editorGroup.border": "#008000ff",
+		"editorGroup.border": "#1F1E1Fff",
 		"editorGroup.dropBackground": "#C0B1AF60",
 
 		// ----- Panel (E.G. Terminal) -----

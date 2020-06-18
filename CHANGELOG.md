@@ -3,6 +3,10 @@ All notable changes to the "Relaxed Dark" extension will be documented in this f
 
 _Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file._
 
+## [0.1.13] - 2020-06-18
+### Fixed
+- Fixed: Green border when using several windows
+
 ## [0.1.12] - 2020-06-17 
 ### Added
 - Added: Screenshot
