@@ -8,7 +8,7 @@
 - [Feedback](#feedback)
 - [Screenshots](#screenshots)
 - [TODO](#todo)
-- [General "Relaxed Dark" Theme planning](#general--relaxed-dark--theme-planning)
+- [General "Relaxed Dark" Theme planning](#general-relaxed-dark-theme-planning)
 
 ## Important
 This is a work-in-progress. If you want to use this theme you are free too. However, there are parts of the app that still isn't themed.
