@@ -7,7 +7,7 @@
 - [Installing](#installing)
 - [Feedback](#feedback)
 - [Screenshots](#screenshots)
-- [TODO's](#todo-s)
+- [TODO](#todo)
     * [Long-Term planning](#long-term--not-only-vs-code-related-)
 
 
@@ -40,7 +40,7 @@ If you have any feedback for my theme, please create an issue with your suggesti
 ## Screenshots
 ![Example screenshot](/images/relaxed-dark-html.png)
 
-# TODO's
+# TODO
 _Here are the list of things that isn't done / planned to be fixed for the theme_   
 
 - [ ] The text colors used for code will need to be tweaked as I use this for my daily coding and notice issues or improvements
