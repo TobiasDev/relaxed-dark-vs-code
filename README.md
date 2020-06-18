@@ -8,6 +8,7 @@
 - [Feedback](#feedback)
 - [Screenshots](#screenshots)
 - [TODO's](#todo-s)
+    * [Long-Term planning](#long-term--not-only-vs-code-related-)
 
 
 ## Important
@@ -45,6 +46,7 @@ _Here are the list of things that isn't done / planned to be fixed for the theme
 - [ ] The text colors used for code will need to be tweaked as I use this for my daily coding and notice issues or improvements
 - [ ] Terminal text colors are still using the default VS Code colors
 - [ ] There are sections of the app that isn't themed yet
+## Long-Term (not only VS Code related)
 - [ ] Long-term: Create a KDE Plasma theme. _I want this as my daily driver theme for everything I can as I find it really nice to work in_
 
 
