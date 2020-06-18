@@ -1,6 +1,15 @@
 # Relaxed Dark - Theme for Visual Studio Code
 **A relaxing dark theme for to make your daily coding pleasant for your eyes**
 
+# Table of Contents
+- [Important](#important)
+    *[Colors](#colors)
+- [Installing](#installing)
+- [Feedback](#feedback)
+- [Screenshots](#screenshots)
+- [TODO's](#todo-s)
+
+
 ## Important
 This is a work-in-progress. If you want to use this theme you are free too. However, there are parts of the app that still isn't themed.
 
@@ -29,3 +38,5 @@ If you have any feedback for my theme, please create an issue with your suggesti
 
 ## Screenshots
 ![Example screenshot](/images/relaxed-dark-html.png)
+
+# TODO's
