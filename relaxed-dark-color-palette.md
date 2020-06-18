@@ -67,7 +67,7 @@ Border:                                     #191A1Fff
 
 <!-- FIX: Temporary color :END -->
 ## Questions
-**When this color is used, that means I don't know what where this one is used.**
+**When this color is used, that means I don't know what I need to open to see that app (E.G. could be something with GIT since I don't use that in VS Code, but a terminal, etc.).**
 Strong green:                               #008000ff
 
 ---
@@ -83,6 +83,8 @@ Highlighted:                                #D2C6C6ff
 * Coding is the main thing I'm not sure about yet *
 - I need to spend some time coding before I can tell if I want to replace these colors or not.
 INFO: Feedback is very welcome! :END 
+TODO: I need to go over these colors since they don't work for anything, BUT, coding at the moment :END
+- I'm running into problems in UELI with them, and that is a simple theme. Only for the text colors though
 -->
 ## Coding 
 - #D9B559 x 27 	- E.G. Keywords (div, const, etc.)
