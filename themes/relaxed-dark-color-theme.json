@@ -60,7 +60,7 @@
 		"badge.foreground": "#C0B1AFff",
 
 		  // ----- Buttons -----
-		"button.background": "#285270ff",
+		"button.background": "#0000FF",
 		"button.hoverBackground": "#3581B8ff",
 		"button.foreground": "#C0B1AFff",
 
@@ -157,7 +157,7 @@
 			"editorHoverWidget.background": "#1F1E1Fff",
 			"editorHoverWidget.border": "#1F1E1Fff",
 			"editorIndentGuide.background": "#C0B1AF30",
-			"editorLink.activeForeground": "#008000ff",	
+			"editorLink.activeForeground": "#749BAAff",	
 
 			"editor.wordHighlightBackground": "#3581B8ff",
 			"editorCodeLens.foreground": "#C0B1AFff",
@@ -255,10 +255,10 @@
 	  	"notifications.foreground": "#C0B1AFff",
 	  	"notifications.background": "#121317ff",
 	  	"notifications.border": "#1F1E1Fff",
-	  	"notificationLink.foreground": "#3581B8ff",
+	  	"notificationLink.foreground": "#749BAAff",
 
-		"textLink.activeForeground": "#3581B8ff", // Hover over link
-		"textLink.foreground": "#3581B8ff", // File Link Color
+		"textLink.activeForeground": "#749BAAff", // Hover over link
+		"textLink.foreground": "#749BAAff", // File Link Color
 		
 		// textBlockQuote
 		"textBlockQuote.background": "#1F1E1Fff",
@@ -287,19 +287,20 @@
 		 
 
 		// Diff
-		"diffEditor.insertedTextBackground": "#002D8Fff",
-		"diffEditor.insertedTextBorder": "#002D8Fff",
-		"diffEditor.removedTextBackground": "#520E00ff",
-		"diffEditor.removedTextBorder": "#520E00ff",
+		"diffEditor.insertedTextBackground": "#001A52ff",
+		"diffEditor.insertedTextBorder": "#001A52ff",
+		"diffEditor.removedTextBackground": "#290700ff",
+		"diffEditor.removedTextBorder": "#290700ff",
 
 	  	// Merge
-	  	"merge.border": "#008000ff",
-	  	"merge.commonContentBackground": "#008000ff",
-	  	"merge.commonHeaderBackground": "#008000ff",
-	  	"merge.currentContentBackground": "#008000ff",
-	  	"merge.currentHeaderBackground": "#008000ff",
-	  	"merge.incomingContentBackground": "#008000ff",
-	  	"merge.incomingHeaderBackground": "#008000ff",
+	  	"merge.border": "#1F1E1Fff",
+	  	"merge.commonContentBackground": "#008000ff", // TODO: What do you do? :END
+	  	"merge.commonHeaderBackground": "#008000ff", // TODO: What do you do? :END
+	  	"merge.currentContentBackground": "#001A52ff",
+	  	"merge.currentHeaderBackground": "#001A52ff",
+	  	"merge.incomingContentBackground": "#290700ff",
+	  	"merge.incomingHeaderBackground": "#290700ff",
+		"descriptionForeground": "#D2C6C6ff", // E.G. Change desc.
 
 		// Contrast
 		"contrastActiveBorder": null,
@@ -309,11 +310,10 @@
 		"debugExceptionWidget.background": "#008000ff",
 	  	"debugExceptionWidget.border": "#008000ff",
 	  	"debugToolBar.background": "#1F1E1Fff",
-		
-		"descriptionForeground": "#008000ff", // Description
+		  
 		
 		// progressBar
-	  	"progressBar.background": "#008000ff",
+	  	"progressBar.background": "#4782FFff",
 
 	  	// Git status colors in File Explorer
 	  	"gitDecoration.modifiedResourceForeground": "#4782FFff",

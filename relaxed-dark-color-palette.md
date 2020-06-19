@@ -47,8 +47,8 @@ Warning:                                    #FFB133ff
 
 <!-- * FINISHED * -->   
 ### Diff
-Inserted:                                   #002D8Fff   
-Removed:                                    #520E00ff    
+Inserted:                                   #001A52ff   
+Removed:                                    #290700ff    
 
 <!-- * FINISHED * -->    
 ## Statusbar Backgrounds
