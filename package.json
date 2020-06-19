@@ -2,7 +2,7 @@
     "name": "relaxed-dark",
     "displayName": "Relaxed Dark [Early beta]",
     "description": "A relaxing dark theme to make your daily coding pleasant for your eyes",
-    "version": "0.2.0",
+    "version": "0.2.12",
     "publisher": "TobiasDev",
     "icon": "images/marketplace-icon.png",
     "engines": {

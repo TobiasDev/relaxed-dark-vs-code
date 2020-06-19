@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
+
+## [0.2.12] - 2020-06-19
+### Fixed
+- Fixed accidental button color
+
 ## [0.2.1] - 2020-06-19
 ### Fixed
 - Updated screenshot paths to work in Visual Studio Code Marketplace
