@@ -52,8 +52,8 @@
 		"list.inactiveSelectionForeground": "#C0B1AFff",
 	  	"list.focusBackground": "#353435ff", // Drop-down Menu 
 	  	"list.focusForeground": "#C0B1AFff",
-	  	"list.dropBackground": "#008000ff",
-	  	"list.highlightForeground": "#D2C6C6ff", // Highlighted text in for example, search
+	  	"list.dropBackground": "#353435ff",
+	  	"list.highlightForeground": "#f3f0f0ff", // Highlighted text in for example, search
 		
 		// Badge
 		"badge.background": "#1F1E1Fff",
@@ -202,8 +202,8 @@
 	  	"peekViewResult.selectionBackground": "#285270ff",
 	  	"peekViewResult.selectionForeground": "#C0B1AFff",
 	  	"peekViewTitle.background": "#242D34ff",
-	  	"peekViewTitleDescription.foreground": "#D2C6C6ff",
-	  	"peekViewTitleLabel.foreground": "#D2C6C6ff",
+	  	"peekViewTitleDescription.foreground": "#f3f0f0ff",
+	  	"peekViewTitleLabel.foreground": "#f3f0f0ff",
 
 		// ----- Terminal -----
 		"terminal.background": "#121317ff", 
@@ -263,7 +263,7 @@
 		// textBlockQuote
 		"textBlockQuote.background": "#1F1E1Fff",
 		"textBlockQuote.border": "#353435ff",
-		"textPreformat.foreground": "#D2C6C6ff",
+		"textPreformat.foreground": "#f3f0f0ff",
 		"textCodeBlock.background": "#008000ff",
 		"textSeparator.foreground": "#008000ff",
 		
@@ -300,7 +300,7 @@
 	  	"merge.currentHeaderBackground": "#001A52ff",
 	  	"merge.incomingContentBackground": "#290700ff",
 	  	"merge.incomingHeaderBackground": "#290700ff",
-		"descriptionForeground": "#D2C6C6ff", // E.G. Change desc.
+		"descriptionForeground": "#f3f0f0ff", // E.G. Change desc.
 
 		// Contrast
 		"contrastActiveBorder": null,

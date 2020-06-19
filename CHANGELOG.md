@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
+## [0.2.13] - 2020-06-19
+### Fixed
+- Background when dropping a new file in Sidebar
 
 ## [0.2.12] - 2020-06-19
 ### Fixed

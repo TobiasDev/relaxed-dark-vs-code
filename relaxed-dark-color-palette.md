@@ -2,11 +2,16 @@
 
 <!-- * FINISHED * -->  
 ## Backgrounds
-Main:                                       #121317ff   
+Main:                                       #121317ff
+    RGBA:                                       rgba(18, 19, 23, 1)
 Inactive (e.g. not selected window):        #12131760   
+    RGBA:                                       rgba(18, 19, 23, 0.6)
 Second:                                     #1F1E1Fff    
+    RGBA:                                       rgba(31, 30, 31, 1)
 Third:                                      #242D34ff     
+    RGBA:                                       rgba(36, 45, 52, 1)
 Hover, not buttons:                         #353435ff    
+    RGBA:                                       rgba(53, 52, 53, 1)
 
 <!-- * FINISHED * -->    
 ### Sidebar file-colors   
@@ -20,6 +25,7 @@ GIT, Conflict: 								#F52900ff
 <!-- * FINISHED * -->   
 ### Searching and selections   
 Found items, selected:                      #285270ff   
+    RGBA:                                       rgba(40, 82, 112, 1)   
 Found items, not selected:                  #28527060   
      
 Show open/closing bracket:                  #453736ff    
@@ -43,6 +49,7 @@ Hover:                                      #3581B8ff
 ## Success, Warning and Errors
 Error:                                      #A02C2Cff   
 Warning:                                    #FFB133ff   
+Success:                                    Something green
 
 <!-- * FINISHED * -->   
 ### Diff
@@ -72,11 +79,16 @@ Strong green:                               #008000ff
 
 # Text colors (code)
 ## Default text colors
-Standard:                                   #C0B1AFff    
+Standard:                                   #C0B1AFff 
+    RGBA:                                       rgba(192, 177, 175, 1)
 Comments:									#C0B1AF80    
-Inactive:                                   #C0B1AF60    
-Highlighted:                                #D2C6C6ff    
- 
+Inactive:                                   #C0B1AF60
+Inactive, when transparency is not allowed: #3b3636    
+Highlighted:                                #f3f0f0ff    
+Link:                                       #749BAAff
+    RGBA:                                       rgba(210, 198, 198, 1)    
+
+
 ## Coding 
 **These colors are subject to change as I discover issues or improvements as I'm using this**   
 

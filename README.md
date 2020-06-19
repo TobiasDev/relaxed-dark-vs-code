@@ -33,6 +33,9 @@ Updated with new steps once the extension is released
 ## Feedback
 If you have any feedback for my theme, please create an issue with your suggestion. 
 
+# User-Settings
+
+
 # TODO
 _Here are the list of things that isn't done / planned to be fixed for the theme_   
 
