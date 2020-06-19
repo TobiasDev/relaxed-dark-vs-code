@@ -1,18 +1,31 @@
 {
     "name": "relaxed-dark",
-    "displayName": "Relaxed Dark",
-    "description": "A relaxing dark theme for to make your daily coding pleasant for your eyes",
-    "version": "0.0.1",
+    "displayName": "Relaxed Dark [Early beta]",
+    "description": "A relaxing dark theme to make your daily coding pleasant for your eyes",
+    "version": "0.2.0",
+    "publisher": "TobiasDev",
     "engines": {
         "vscode": "^1.45.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TobiasDev/relaxed-dark-vs-code"
+      },
+    "galleryBanner": {
+        "color": "#121317",
+        "theme": "dark"
+      },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "VSCode",
+        "Themes"
+      ],
     "contributes": {
         "themes": [
             {
-                "label": "Relaxed Dark",
+                "label": "Relaxed Dark [Early beta]",
                 "uiTheme": "vs-dark",
                 "path": "./themes/relaxed-dark-color-theme.json"
             }

@@ -17,9 +17,8 @@ GIT, Untracked:								#B66E68ff
 GIT, Ignored: 								#9C848160   
 GIT, Conflict: 								#F52900ff   
 
-<!-- ? FINISHED? ? -->   
-### Searching and selections
-<!-- TODO: Same as buttons, do I want that :END -->   
+<!-- * FINISHED * -->   
+### Searching and selections   
 Found items, selected:                      #285270ff   
 Found items, not selected:                  #28527060   
      
@@ -64,9 +63,8 @@ Shadow:                                     #000000ff
 <!-- * FINISHED * -->   
 # Contrasts:
 Border:                                     #191A1Fff   
-
-<!-- FIX: Temporary color :END -->    
-## Questions
+   
+## Temporary
 **When this color is used, that means I don't know what I need to open to see that app (E.G. could be something with GIT since I don't use that in VS Code, but a terminal, etc.).**    
 Strong green:                               #008000ff    
 
@@ -78,15 +76,13 @@ Standard:                                   #C0B1AFff
 Comments:									#C0B1AF80    
 Inactive:                                   #C0B1AF60    
 Highlighted:                                #D2C6C6ff    
-
-<!-- 
-* Coding is the main thing I'm not sure about yet *     
-- I need to spend some time coding before I can tell if I want to replace these colors or not.    
-INFO: Feedback is very welcome! :END     
-TODO: I need to go over these colors since they don't work for anything, BUT, coding at the moment :END    
-- I'm running into problems in UELI with them, and that is a simple theme. Only for the text colors though    
--->    
+ 
 ## Coding 
+**These colors are subject to change as I discover issues or improvements as I'm using this**   
+
+### Todo
+- [ ] I need to go over these colors since I have tried them in some other apps but are running into issue (E.G. UELI)
+
 - #D9B559 x 27 	- E.G. Keywords (div, const, etc.)    
 - #E8D39B x 32 	- E.G. Entity names   
 - #AE9B98 x 19 	- E.G. Variables    
@@ -94,8 +90,7 @@ TODO: I need to go over these colors since they don't work for anything, BUT, co
 - #7E6363 x 15 	- E.G.    
 - #6B4C5E x 3	- E.G. Constants (only numbers)    
 
-<!-- FIX: Need to figure out where these colors are used :END -->   
-### Where are you guys used
+### FIX: Need to figure out where these colors are used :END   
 - #F26419 x 2    
 - #3C95B9 x 7    
 - #7D1D3F x 7    

@@ -3,6 +3,17 @@ All notable changes to the "Relaxed Dark" extension will be documented in this f
 
 _Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file._
 
+## [0.2.0] - 2020-06-19
+### New
+- Preparing README, CHANGELOG and other files to be released on the VS Code extension marketplace
+- Added LICENSE
+
+### Updated
+- Moved some things around in README
+
+### Fixed
+- Fixed that merge conflicts in VS Code are no longer green
+
 ## [0.1.13] - 2020-06-18
 ### Fixed
 - Fixed: Green border when using several windows

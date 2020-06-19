@@ -1,12 +1,13 @@
 # Relaxed Dark - Theme for Visual Studio Code
 **A relaxing dark theme for to make your daily coding pleasant for your eyes**
 
+![Screenshot](/images/relaxed-dark-html.png)
+
 # Table of Contents
 - [Important](#important)
-    * [Colors](#colors)
+    - [Colors](#colors)
 - [Installing](#installing)
 - [Feedback](#feedback)
-- [Screenshots](#screenshots)
 - [TODO](#todo)
 - [General "Relaxed Dark" Theme planning](#general-relaxed-dark-theme-planning)
 
@@ -27,17 +28,10 @@ When you see any of these colors in the app, that is something that I haven't do
 ![Colors](/images/not-themed.png)
 
 ## Installing
-I haven't released this on the Microsoft Marketplace for Visual Studio Code extensions yet. I will do this in the future, but for now if you want to install it you need to: 
-1. download the the repo 
-2. Place the folder in `<user home>/.vscode/extensions` folder
-3. Restart.
-4. Open `File > Preferences > Color Themes` and pick **"Relaxed Dark"**
+Updated with new steps once the extension is released
 
 ## Feedback
 If you have any feedback for my theme, please create an issue with your suggestion. 
-
-## Screenshots
-![Example screenshot](/images/relaxed-dark-html.png)
 
 # TODO
 _Here are the list of things that isn't done / planned to be fixed for the theme_   
@@ -45,6 +39,7 @@ _Here are the list of things that isn't done / planned to be fixed for the theme
 - [ ] The text colors used for code will need to be tweaked as I use this for my daily coding and notice issues or improvements
 - [ ] Terminal text colors are still using the default VS Code colors
 - [ ] There are sections of the app that isn't themed yet
+- [ ] I need to update / add some new colors since I'm running into issues themeing other apps with the "Relaxed Dark" colors. See [Relaxed Dark Color Palette](https://github.com/TobiasDev/relaxed-dark-vs-code/blob/main/relaxed-dark-color-palette.md)
 
 # General "Relaxed Dark" Theme planning
 Once I'm happy with my VS Code theme, I would like to implement this in more of my daily apps. There is no time-frame on this, and it could be that this never happens. However, if I keep going with this theme, these are the other apps I would like to implement a version of this theme in.   
