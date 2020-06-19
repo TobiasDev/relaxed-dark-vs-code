@@ -1,5 +1,5 @@
 # Relaxed Dark - Theme for Visual Studio Code
-**A relaxing dark theme for to make your daily coding pleasant for your eyes**
+**A relaxing dark theme to make your daily coding pleasant for your eyes**
 
 ![Screenshot](/images/relaxed-dark-html.png)
 
