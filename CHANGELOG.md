@@ -1,7 +1,12 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
-_Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file._
+## [0.2.1] - 2020-06-19
+### Fixed
+- Updated screenshot paths to work in Visual Studio Code Marketplace
+
+### Added
+- Small icon for Marketplace
 
 ## [0.2.0] - 2020-06-19
 ### New
