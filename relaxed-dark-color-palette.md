@@ -1,129 +1,80 @@
-# App-colors 
+# Colors
+## Background colors
+|  Main   | Secondary |  Third  | Fourth  | Inactive |
+| :-----: | :-------: | :-----: | :-----: | :------: |
+| #121317 |  #1F1E1F  | #242D34 | #COOLOR | #1D1F25  |
 
-<!-- * FINISHED * -->  
-## Backgrounds
-Main:                                       #121317ff
-    RGBA:                                       rgba(18, 19, 23, 1)
-Inactive (e.g. not selected window):        #12131760   
-    RGBA:                                       rgba(18, 19, 23, 0.6)
-Second:                                     #1F1E1Fff    
-    RGBA:                                       rgba(31, 30, 31, 1)
-Third:                                      #242D34ff     
-    RGBA:                                       rgba(36, 45, 52, 1)
-Hover, not buttons:                         #353435ff    
-    RGBA:                                       rgba(53, 52, 53, 1)
+## Selection / Text backgrounds
+| Selection | Current |  Extra  |
+| :-------: | :-----: | :-----: |
+|  #285270  | #3581b8 | #353435 |
 
-<!-- * FINISHED * -->    
-### Sidebar file-colors   
-Default:									#9C8481ff   
-GIT, Modified:								#4782FFff   
-GIT, Deleted:								#8F1800ff   
-GIT, Untracked:								#B66E68ff   
-GIT, Ignored: 								#9C848160   
-GIT, Conflict: 								#F52900ff   
+## Buttons
+| Selection |  Hover  |  Click  |
+| :-------: | :-----: | :-----: |
+|  #285270  | #3581b8 | #COOLOR |
 
-<!-- * FINISHED * -->   
-### Searching and selections   
-Found items, selected:                      #285270ff   
-    RGBA:                                       rgba(40, 82, 112, 1)   
-Found items, not selected:                  #28527060   
-     
-Show open/closing bracket:                  #453736ff    
+## Text Colors
+|  Main   | Secondary |  Third  | Fourth  | Inactive |
+| :-----: | :-------: | :-----: | :-----: | :------: |
+| #C0B1AF |  #COOLOR  | #COOLOR | #COOLOR | #3B3636  |
 
-<!-- * FINISHED * -->   
-### Editor
-Editor, Indent:                             #C0B1AF30    
+### Coding
+| Comments | Identifier | PreProc | Special | Statement | String  |  Type   | Brackets |
+| :------: | :--------: | :-----: | :-----: | :-------: | :-----: | :-----: | :------: |
+| #725C5A  |  #D2A637   | #AE7947 | #E8D29B |  #937426  | #53748D | #DFC073 | #453736  |
 
-<!-- * FINISHED * -->   
-## Editor-gutter
-Modified:                                   #4782FFff   
-Added:                                      #FFD085ff   
-Deleted:                                    #8F1800ff   
+## Messages
+|  Type   | Normal  | Bright  |  Shade  |
+| :-----: | :-----: | :-----: | :-----: |
+|  Error  | #A02C2C | #D9AAAA | #401111 |
+| Warning | #FFB144 | #DDF084 | #996A1E |
+| Success | #2C7C43 | #95BDA1 | #163E21 |
+|  Todo   | #004ECC |  #NONE  |  #NONE  |
 
-<!-- * FINISHED * -->    
-## Buttons: 
-Default:                                    #285270ff   
-Hover:                                      #3581B8ff   
+## Terminal Colors
+_These are currently in testing to see if I like them or not_
 
-<!-- * FINISHED * -->   
-## Success, Warning and Errors
-Error:                                      #A02C2Cff   
-Warning:                                    #FFB133ff   
-Success:                                    Something green
+|  Color  | Normal  | Bright  |
+| :-----: | :-----: | :-----: |
+|  Black  | #666666 | #828188 |
+|   Red   | #861D24 | #CF2E39 |
+|  Green  | #367033 | #4B9A47 |
+| Yellow  | #FFDD33 | #FFEB60 |
+|  Blue   | #3776A9 | #74A8D2 |
+| Magenta | #93105A | #E9359B |
+|  Cyan   | #3EAFAF | #A5DFDF |
+|  White  | #D8DCA7 | #F2F3E2 |
 
-<!-- * FINISHED * -->   
-### Diff
-Inserted:                                   #001A52ff   
-Removed:                                    #290700ff    
+**Info: If the black color is the background for your terminal I suggest using these colors instead**
+| Color | Normal  | Bright  |
+| :---: | :-----: | :-----: |
+| Black | #121317 | #1F1E1F |
 
-<!-- * FINISHED * -->    
+## File Colors
+_These need some re-work, but will stay for now_
+| Default |  Added  | Modified | Deleted | Untracked | Ignored | Conflict | Text, Inserted | Text, Removed |
+| :-----: | :-----: | :------: | :-----: | :-------: | :-----: | :------: | :------------: | :-----------: |
+| #9C8441 | #FFD085 | #4782ff  | #8f1800 |  b66e68   | #9c8481 | #f52900  |    #001A52     |    #290700    |
+
+---
+
+# Special colors used in the VS Code theme
 ## Statusbar Backgrounds
-Standard: 									#121317ff   
-Debugging:                                  #00277Aff   
-NoFolder:									#121317ff   
-Prominent:									#1F66FFff  
+Debugging:              #00277Aff 
+Prominent:				#1F66FFff 
 
-<!-- * FINISHED * -->    
+### Editor
+Editor, Indent:         #C0B1AF30 
+
 ## Widget
-Shadow:                                     #000000ff   
+Shadow:                 #000000ff 
 
-<!-- * FINISHED * -->   
-# Contrasts:
-Border:                                     #191A1Fff   
-   
-## Temporary
-**When this color is used, that means I don't know what I need to open to see that app (E.G. could be something with GIT since I don't use that in VS Code, but a terminal, etc.).**    
-Strong green:                               #008000ff    
+## Text colors (code)
+Inactive:               #C0B1AF60
 
----
+### Need to figure out where these colors are used in VS Code languages   
+- #ffff00 x 4 
+- #00ffff x 7 
+- #0000FF x 2 
 
-# Text colors (code)
-## Default text colors
-Standard:                                   #C0B1AFff 
-    RGBA:                                       rgba(192, 177, 175, 1)
-Comments:									#C0B1AF80    
-Inactive:                                   #C0B1AF60
-Inactive, when transparency is not allowed: #3b3636    
-Highlighted:                                #f3f0f0ff    
-Link:                                       #749BAAff
-    RGBA:                                       rgba(210, 198, 198, 1)    
-
-
-## Coding 
-**These colors are subject to change as I discover issues or improvements as I'm using this**   
-
-### Todo
-- [ ] I need to go over these colors since I have tried them in some other apps but are running into issue (E.G. UELI)
-
-- #D9B559 x 27 	- E.G. Keywords (div, const, etc.)    
-- #E8D39B x 32 	- E.G. Entity names   
-- #AE9B98 x 19 	- E.G. Variables    
-- #53748D x 2	- E.G. Strings    
-- #7E6363 x 15 	- E.G.    
-- #6B4C5E x 3	- E.G. Constants (only numbers)    
-
-### FIX: Need to figure out where these colors are used :END   
-- #F26419 x 2    
-- #3C95B9 x 7    
-- #7D1D3F x 7    
-- #0000FF x 7   
-
----
-
-# Terminal still needs to changed
-- "terminal.ansiBlack": "#3C95B9", 
-- "terminal.ansiRed": "#ff628c", 
-- "terminal.ansiGreen": "#3ad900", 
-- "terminal.ansiYellow": "#ffc600", 
-- "terminal.ansiBlue": "#0088ff", 
-- "terminal.ansiMagenta": "#fb94ff", 
-- "terminal.ansiCyan": "#80fcff",
-- "terminal.ansiWhite": "#ffffff", 
-- "terminal.ansiBrightBlack": "#0050A4", 
-- "terminal.ansiBrightRed": "#DE3C4B", 
-- "terminal.ansiBrightGreen": "#3ad900", 
-- "terminal.ansiBrightYellow": "#ffc600", 
-- "terminal.ansiBrightBlue": "#0088ff", 
-- "terminal.ansiBrightMagenta": "#fb94ff", 
-- "terminal.ansiBrightCyan": "#80fcff",
-- "terminal.ansiBrightWhite": "#193549", 

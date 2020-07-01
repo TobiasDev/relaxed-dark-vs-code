@@ -3,11 +3,6 @@
 	"name": "Relaxed Dark",
 	"type": "dark",	
 	"colors": {
-		/* 		
-		DEBUG Colors
-		GREEN, this is used for areas I haven't seen yet: #008000ff
-		*/
-
 		// --------------- WELCOME ---------------
 		"walkThrough.embeddedEditorBackground": "#242D34ff", // MARKDOWN CODE BG
 		"welcomePage.buttonBackground": "#1F1E1Fff",
@@ -90,7 +85,7 @@
 		"inputValidation.infoBackground": "#121317ff", 
 		"inputValidation.infoBorder": "#285270ff",
 		"inputValidation.warningBackground": "#121317ff",
-		"inputValidation.warningBorder": "#FFB133ff",
+		"inputValidation.warningBorder": "#FFB144ff",
 
 		// ----- editorGroupHeader -----
 		"editorGroupHeader.noTabsBackground": "#008000ff",
@@ -164,7 +159,7 @@
 			// editorMarkerNavigation - E.G. Peek
 			"editorMarkerNavigation.background": "#1F1E1Fff",
 			"editorMarkerNavigationError.background": "#A02C2Cff",
-			"editorMarkerNavigationWarning.background": "#FFB133ff",
+			"editorMarkerNavigationWarning.background": "#FFB144ff",
 	
 			// ruler
 			"editorOverviewRuler.border": "#121317ff", // Border for "ruler"
@@ -181,8 +176,8 @@
 			"editorSuggestWidget.selectedBackground": "#353435ff",
 			
 			// editorWarning
-			"editorWarning.border": "#FFB133ff",
-			"editorWarning.foreground": "#FFB133ff",
+			"editorWarning.border": "#FFB144ff",
+			"editorWarning.foreground": "#FFB144ff",
 			"editorWhitespace.foreground": "#C0B1AFff",
 			"editorWidget.background": "#121317ff",
 			"editorWidget.border": "#1F1E1Fff",
@@ -211,22 +206,22 @@
 		"terminalCursor.foreground": "#C0B1AFff", 
 		
 		// TODO: change the default Terminal colors
-		"terminal.ansiBlack": "#3C95B9", 
-		"terminal.ansiRed": "#ff628c", 
-		"terminal.ansiGreen": "#3ad900", 
-		"terminal.ansiYellow": "#ffc600", 
-		"terminal.ansiBlue": "#0088ff", 
-		"terminal.ansiMagenta": "#fb94ff", 
-		"terminal.ansiCyan": "#80fcff",
-		"terminal.ansiWhite": "#ffffff", 
-		"terminal.ansiBrightBlack": "#0050A4", 
-		"terminal.ansiBrightRed": "#DE3C4B", 
-		"terminal.ansiBrightGreen": "#3ad900", 
-		"terminal.ansiBrightYellow": "#ffc600", 
-		"terminal.ansiBrightBlue": "#0088ff", 
-		"terminal.ansiBrightMagenta": "#fb94ff", 
-		"terminal.ansiBrightCyan": "#80fcff",
-		"terminal.ansiBrightWhite": "#193549", 
+		"terminal.ansiBlack": "#666666", 
+		"terminal.ansiRed": "#861D24", 
+		"terminal.ansiGreen": "#367033", 
+		"terminal.ansiYellow": "#FFDD33", 
+		"terminal.ansiBlue": "#3776A9", 
+		"terminal.ansiMagenta": "#93105A", 
+		"terminal.ansiCyan": "#3EAFAF",
+		"terminal.ansiWhite": "#D8DCA7", 
+		"terminal.ansiBrightBlack": "#828188", 
+		"terminal.ansiBrightRed": "#CF2E39", 
+		"terminal.ansiBrightGreen": "#4B9A47", 
+		"terminal.ansiBrightYellow": "#FFEB85", 
+		"terminal.ansiBrightBlue": "#74A8D2", 
+		"terminal.ansiBrightMagenta": "#E9359B", 
+		"terminal.ansiBrightCyan": "#A5DFDF",
+		"terminal.ansiBrightWhite": "#F2F3F2", 
 		
 		// ----- StatusBar -----
 		"statusBar.background": "#121317ff",
@@ -324,7 +319,7 @@
 	"tokenColors": [
 		{
 		  "settings": {
-			"foreground": "#C0B1AFff",
+			"foreground": "#C0B1AF",
 		  }
 		},
 		{
@@ -343,7 +338,7 @@
 		  "name": "Comment",
 		  "scope": "comment",
 		  "settings": {
-			"foreground": "#C0B1AF80"
+			"foreground": "#3B3636"
 		  }
 		},
 		{
@@ -520,7 +515,7 @@
 			"punctuation.start.definition.comment"
 		  ],
 		  "settings": {
-			"foreground": "#C0B1AF80"
+			"foreground": "#3B3636"
 		  }
 		},
 		{

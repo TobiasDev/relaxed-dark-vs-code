@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
+
+## [0.3.0] - 2020-07-01
+### Changed
+- Re-did several colors in the theme
+- Updated the color-palette.md
+
+### Cleaned
+- Cleaned up the README
+
 ## [0.2.13] - 2020-06-19
 ### Fixed
 - Background when dropping a new file in Sidebar
