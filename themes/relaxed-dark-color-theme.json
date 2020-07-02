@@ -278,7 +278,6 @@
 	  	// ----- Picker -----
 	  	"pickerGroup.border": "#1F1E1Fff",
 	  	"pickerGroup.foreground": "#242D34ff",
-		 
 
 		// Diff
 		"diffEditor.insertedTextBackground": "#001A52ff",
