@@ -22,7 +22,7 @@ If you are using a none Microsoft "themed" version of Code, you can grab the lat
 If you have any feedback for my theme, please create an issue with your suggestion. 
 
 # User-Settings
-Font Family: [IBM Plex Mono](https://github.com/IBM/plex) (backup [Fira Code](https://github.com/tonsky/FiraCode))
+Font Family: [IBM Plex Mono](https://github.com/IBM/plex) (backup [Fira Code](https://github.com/tonsky/FiraCode))  
 Font Size: 14px
 
 # TODO
