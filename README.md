@@ -1,15 +1,9 @@
 # Relaxed Dark - Theme for Visual Studio Code
 **A relaxing dark theme to make your daily coding pleasant for your eyes**
 
-![Screenshot](https://raw.githubusercontent.com/TobiasDev/relaxed-dark-vs-code/main/images/relaxed-dark-html.png)
+This theme is part of a bigger package of themes that I want to create for all my daily drivers. You can find the main repo here: https://github.com/TobiasDev/relaxed-dark
 
-# Table of Contents
-- [Important](#important)
-    - [Colors](#colors)
-- [Installing](#installing)
-- [Feedback](#feedback)
-- [TODO](#todo)
-- [General "Relaxed Dark" Theme planning](#general-relaxed-dark-theme-planning)
+![Screenshot](https://raw.githubusercontent.com/TobiasDev/relaxed-dark-vs-code/main/images/relaxed-dark-html.png)
 
 ## Important
 This is a work-in-progress.
@@ -20,7 +14,7 @@ If you want to help, please create a new issue when you find areas that you thin
 When you see any extreme colors such as #ff0000, #00ff00, #0000ff, that means you have found a none-themed area. Please create an issue and report it.
 
 ## Installing
-Updated with new steps once the extension is released
+You can search for "Relaxed Dark" in the ExtensionBar and you should be able to find it. If not, feel free to download it directly from the extension page: https://marketplace.visualstudio.com/items?itemName=TobiasDev.relaxed-dark
 
 ## Feedback
 If you have any feedback for my theme, please create an issue with your suggestion. 

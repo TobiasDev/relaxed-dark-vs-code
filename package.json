@@ -1,20 +1,17 @@
 {
     "name": "relaxed-dark",
-    "displayName": "Relaxed Dark [Early beta]",
+    "displayName": "Relaxed Dark",
     "description": "A relaxing dark theme to make your daily coding pleasant for your eyes",
-    "version": "0.3.0",
+    "version": "0.3.01",
     "publisher": "TobiasDev",
     "icon": "images/marketplace-icon.png",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/TobiasDev/relaxed-dark-vs-code"
-      },
     "galleryBanner": {
         "color": "#121317",
         "theme": "dark"
+      },   
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/TobiasDev/relaxed-dark-vs-code"
       },
     "categories": [
         "Themes"
@@ -22,14 +19,24 @@
     "keywords": [
         "VSCode",
         "Themes"
-      ],
+      ],   
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "scripts": {
+    	"start": "nodemon --exec vsce package"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Relaxed Dark [Early beta]",
+                "label": "Relaxed-Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/relaxed-dark-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+	    "nodemon": "^1.14.12",
+	    "vsce": "^1.36.2"
     }
 }

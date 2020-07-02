@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
+## [0.3.01] - 2020-07-02
+### Updated
+- Added some new information to the package.json
+- Updated the README with some new information about this "package" of themes
 
 ## [0.3.0] - 2020-07-01
 ### Changed
