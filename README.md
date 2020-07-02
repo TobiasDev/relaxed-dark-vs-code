@@ -16,11 +16,14 @@ When you see any extreme colors such as #ff0000, #00ff00, #0000ff, that means yo
 ## Installing
 You can search for "Relaxed Dark" in the ExtensionBar and you should be able to find it. If not, feel free to download it directly from the extension page: https://marketplace.visualstudio.com/items?itemName=TobiasDev.relaxed-dark
 
+If you are using a none Microsoft "themed" version of Code, you can grab the latest version from here: https://open-vsx.org/extension/TobiasDev/relaxed-dark 
+
 ## Feedback
 If you have any feedback for my theme, please create an issue with your suggestion. 
 
 # User-Settings
-TODO
+Font Family: [IBM Plex Mono](https://github.com/IBM/plex) (backup [Fira Code](https://github.com/tonsky/FiraCode))
+Font Size: 14px
 
 # TODO
 _Here are the list of things that isn't done / planned to be fixed for the theme_   
