@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to the "Relaxed Dark" extension will be documented in this file.
 
+## [0.3.2] - 2020-07-03
+### Updated
+- Updated some GIT file colors
+
+### Known
+- I'm still not happy with the DIFF and MERGE colors, but will work more on those later
+
 ## [0.3.1] - 2020-07-02
 ### Updated
 - Added some new information to the package.json
