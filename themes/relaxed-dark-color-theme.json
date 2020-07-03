@@ -309,9 +309,9 @@
 	  	"progressBar.background": "#4782FFff",
 
 	  	// Git status colors in File Explorer
-	  	"gitDecoration.modifiedResourceForeground": "#4782FFff",
+	  	"gitDecoration.modifiedResourceForeground": "#FFD085ff",
 	  	"gitDecoration.deletedResourceForeground": "#8F1800ff",
-	  	"gitDecoration.untrackedResourceForeground": "#B66E68ff",
+	  	"gitDecoration.untrackedResourceForeground": "#F59700ff",
 	  	"gitDecoration.ignoredResourceForeground": "#9C848160",
 	  	"gitDecoration.conflictingResourceForeground": "#F52900ff", 
 	},
