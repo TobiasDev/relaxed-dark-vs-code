@@ -3,6 +3,12 @@
 
 This theme is part of a bigger package of themes that I want to create for all my daily drivers. You can find the main repo here: https://github.com/TobiasDev/relaxed-dark
 
+Latest Changes
+```
+Version: 0.3.4
+- Re-did the text-colors for coding (the theme is now using less different colors)
+```
+
 ![Screenshot](https://raw.githubusercontent.com/TobiasDev/relaxed-dark-vs-code/main/images/relaxed-dark-html.png)
 
 ## Important
@@ -28,6 +34,5 @@ Font Size: 14px
 # TODO
 _Here are the list of things that isn't done / planned to be fixed for the theme_   
 
-- The text colors used for code will need to be tweaked as I use this for my daily coding and notice issues or improvements
 - There are sections of the app that isn't themed yet
 
